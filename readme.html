@@ -18,6 +18,12 @@
     <img style="margin: 10rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original-wordmark.svg" alt="Visual Studio Code" height="50" />
 </div>
 
+<div class="OS">
+    <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/Windows.svg" />
+    
+
+
+</div>
 <div class="badges">
 
 </div>
