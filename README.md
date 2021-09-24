@@ -1,6 +1,3 @@
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="left" style="width: 100%" />  
-  
-
 ### <div align="center">I'm a programming student, I'm 26 years old, I graduated in Industrial Automation Technology, looking for knowledge. </div>  
   
 
