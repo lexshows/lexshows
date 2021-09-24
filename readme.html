@@ -20,9 +20,7 @@
 
 </div>
 <div class="spotify">
-    [![Spotify](https://novatorem-envoy-vc.vercel.app/api/spotify)](https://open.spotify.com/user/alex.panicello?si=342ffbe7bdb44b44)
 
-    
 </div>
 
 <div>
