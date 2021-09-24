@@ -86,4 +86,6 @@
 <div align="center"></div>
 <br />
 
-----Thanks <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+----
+
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Thanks -> Github Profilinator</a></div>
