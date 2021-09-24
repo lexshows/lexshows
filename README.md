@@ -28,7 +28,7 @@
 
 </div>
 <div class="spotify">
-
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=alex.panicello&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=alex.panicello&redirect=true)
 </div>
 
 <div>
