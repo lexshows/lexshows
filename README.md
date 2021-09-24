@@ -14,7 +14,7 @@
     <img style="margin: 10rem" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />
     <img style="margin: 10rem" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />
     <img style="margin: 10rem" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-    <img style="margin: 10rem;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+    <img style="margin: 10rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" alt="Visual Studios" height="50" />
 </div>
 
 <div class="badges">
