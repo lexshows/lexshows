@@ -1,7 +1,7 @@
 ### <div align="center">I'm a programming student, I'm 26 years old, I graduated in Industrial Automation Technology, looking for knowledge. </div>  
   
 
-- I currently work at Johnson Controls BE 🏢 as Technical Support. 🖥️  
+- I currently work at ... 🏢 as Technical Support. 🖥️  
   
 
 - 🌱 I'm learning HTML, CSS, Javascript, Python, Git and some PowerShell   
